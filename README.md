@@ -1,1 +1,1 @@
-![College Site Replica](.Img/Screenshot.png)
+![ScreenShot](Img/Screenshot.png)
