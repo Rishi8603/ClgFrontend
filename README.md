@@ -1,1 +1,1 @@
-![ScreenShot](<img src="Img/Screenshot.png" alt="Website Screenshot" width="400"/>)
+<img src="Img/Screenshot.png" alt="Website Screenshot" width="400"/>
