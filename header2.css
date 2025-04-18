@@ -1,0 +1,23 @@
+.subHead{
+  width: 100%;
+  /* background-color: red; */
+}
+.subHead ul{
+  display: flex;
+  color: rgb(247, 247, 247);
+  background-color:#0080aa ;
+  font-size: 13px;
+  height: 40px;
+  align-items: center;
+  padding:0;
+  cursor: pointer;
+  /* padding-right: 15px; */
+  /* padding-left: -40px; */
+}
+.subHead li{
+  flex:1;
+  display: flex;            
+  justify-content: center;    
+  white-space: nowrap;    
+  
+}

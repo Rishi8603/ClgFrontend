@@ -1,0 +1,18 @@
+सरदार वल्लभभाई राष्ट्रीय प्रौद्योगिकी संस्थान, सूरत
+
+Sardar Vallabhbhai National Institute of Technology</strong>,<br>
+          Ichchhanath, Surat-395007, Gujarat, INDIA
+
+© COPYRIGHT 2022 ALL RIGHTS RESERVED BY SVNIT
+
+colors:
+#ccc
+#0080aa
+maroon
+#006080
+#f2f2f2
+#039be5
+#d6bfa6
+#7b6b58
+#2a2f3a
+#2f3442

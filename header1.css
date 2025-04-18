@@ -1,0 +1,47 @@
+.mainHead{
+  width: 100%;
+  height:100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.left{
+width:120px;
+/* background-color: gray; */
+height: 100px;
+}
+.leftLogo{
+  height:100px;
+  padding-top: 4px;
+}
+.mid {
+  height: 100px;
+  display: flex;
+  flex-direction: column;      /* Stack vertically */
+  align-items: center;         /* Center horizontally */
+  justify-content: center;     /* Optional: center vertically if parent has height */
+  text-align: center;          /* Center text content */
+  /* background-color: black; */
+  font-size: 25px;
+  font-weight: bold;
+}
+.mid .hindi{
+  font-size: 30px;
+  font-family: 'Noto Sans Devanagari', sans-serif;
+  margin: 5px 0;
+  color:maroon;
+}
+.mid .english{
+  font-family: Arial, sans-serif;
+  margin: 5px 0;
+}
+.right{
+  width:120px;
+  /* background-color: gray; */
+  height: 100px;
+}
+.rightLogo{
+  height:100px;
+  padding: 2px;
+}

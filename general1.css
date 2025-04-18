@@ -1,0 +1,89 @@
+.temp{
+  display:flex;
+  justify-content: space-between;
+  background-color: rgb(247, 247, 247);
+  height: 600px;
+}
+.sidebar1{
+  font-size: 15px;
+  width:200px;
+  height: 420px;
+  border-radius: 4px;
+  background-color: rgb(12, 52, 140);
+}
+.sidebar1 ul{
+  display: flex;
+  margin:9px 2px;
+  flex-direction: column;
+  color: white;
+  height: 96%;
+  width:95%;
+  padding:0;
+  cursor: pointer;
+}
+.sidebar1 li{
+  width: 100%;
+  margin-left: 2px;
+  flex:1;
+  background-color: #1fa1e2;
+  align-items: center;
+  justify-content:center;
+  border: 1px solid  rgb(12, 52, 140);
+  display: flex;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+main{
+  flex:1;
+}
+.grid-container {
+  margin: 0px 30px;
+  background-color: rgb(156, 156, 156);
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  height: 70vh; /* or set a fixed height if needed */
+  gap: 10px; /* clean and simple gap */
+  padding: 10px;
+}
+
+.item {
+  background: rgb(236, 8, 8);
+  overflow: hidden; /* prevents image from spilling */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.i1{
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* ensures image fills and stays inside */
+}
+
+.sidebar2{
+  width:200px;
+  height: 300px;
+  background-color:  #7b6b58;
+  border-radius: 4px;
+}
+.sidebar2 ul{
+  margin-left: 4px;
+  margin-top: 4px;
+  display: flex;
+  flex-direction: column;
+  color: rgb(255, 255, 255);
+  height: 96%;
+  width:95%;
+  padding:0;
+  cursor: pointer;
+}
+.sidebar2 li{
+  width: 100%;
+  background-color: #d6bfa6;
+  align-items: center;
+  justify-content:center;
+  flex:1;
+  border: 1px solid #7b6b58; 
+  display: flex;
+  border-radius: 4px;
+}
